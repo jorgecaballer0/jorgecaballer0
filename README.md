@@ -1,7 +1,7 @@
-Hola 👋 Mi nombre es Jorge Caballero
+# Hola 👋 Mi nombre es Jorge Caballero
 ================================
 
-Soy desarrollador Frontend 
+## Soy desarrollador Frontend 
 
 Estoy aprendiendo programación hace ya 1 año, realicé el curso de Desarrollador Frontend con React JS en Coderhouse. Aprendí HTML, CSS, JavaScript y React. Actualmente estoy en búsqueda de mi primer trabajo en el área IT, al mismo tiempo que continuo aprendiendo y desarrollando mis habilidades.
 * 🌍 Vivo en Buenos Aires, Argentina
