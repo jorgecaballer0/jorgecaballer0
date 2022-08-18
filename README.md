@@ -1,5 +1,4 @@
 # Hola 👋 Mi nombre es Jorge Caballero
-================================
 
 ## Soy desarrollador Frontend 
 
