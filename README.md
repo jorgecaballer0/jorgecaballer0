@@ -4,7 +4,7 @@
 
 Estoy aprendiendo programación hace ya 1 año, realicé el curso de Desarrollador Frontend con React JS en Coderhouse. Aprendí HTML, CSS, JavaScript y React. Actualmente estoy en búsqueda de mi primer trabajo en el área IT, al mismo tiempo que continuo aprendiendo y desarrollando mis habilidades.
 * 🌍 Vivo en Buenos Aires, Argentina
-* * 🖥️  Puedes ver mi portfolio aquí: [Click aquí](https://portfolio-web-jc.vercel.app/).
+* * 🖥️  Puedes ver mi portfolio aquí: [Click aquí](https://portafolio-frontend-jc.vercel.app/).
 * * ✉️  Contactame por e-mail: [jorge.caballero.98@outlook.com](mailto:jorge.caballero.98@outlook.com).
 * * 🧠  Actualmente me encuentro profundizando conocimientos en React Js.
 * * 🤝  Estoy abierto a colaborar en cualquier tipo de proyecto, aportando mis conocimientos del Frontend, no dudes en escribirme tu idea!.
