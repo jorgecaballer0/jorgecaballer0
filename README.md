@@ -1,6 +1,6 @@
 # 💫 Sobre Mí:
 Soy desarrollador Frontend, estoy aprendiendo programación desde el 2020, realicé el curso de Desarrollador Frontend con React JS en Coderhouse. Aprendí HTML, CSS, JavaScript y React.
-🌍 Vivo en Buenos Aires, Argentina<br>🖥️  Puedes ver mi portfolio aquí: [Click aquí](https://portafolio-frontend-jc.vercel.app/).<br>✉️  Contactame por e-mail: [jorge.caballero.98@outlook.com](mailto:jorge.caballero.98@outlook.com).<br>🧠  Actualmente me encuentro profundizando conocimientos en NextJs.<br>🤝  Estoy abierto a colaborar en cualquier tipo de proyecto, aportando mis conocimientos del Frontend, no dudes en escribirme tu idea!.<br>
+<br/> 🌍 Vivo en Buenos Aires, Argentina<br>🖥️  Puedes ver mi portfolio aquí: [Click aquí](https://portafolio-frontend-jc.vercel.app/).<br>✉️  Contactame por e-mail: [jorge.caballero.98@outlook.com](mailto:jorge.caballero.98@outlook.com).<br>🧠  Actualmente me encuentro profundizando conocimientos en NextJs.<br>🤝  Estoy abierto a colaborar en cualquier tipo de proyecto, aportando mis conocimientos del Frontend, no dudes en escribirme tu idea!.<br>
 
 
 ## 🌐 Socials:
